@@ -1,4 +1,4 @@
-Esercizio  Rubrica
+# Esercizio  Rubrica
 
 Progettare ed implementare un programma che possa gestire una rubrIca che contiene delle voci.
 
@@ -16,5 +16,4 @@ Il metodo elenco() restituisce una stringa con l'elenco delle voci della rubrica
 
 Infine, il metodo ricerca() restituisce la stringa corrispondente alla prima voce che contiene il parametro come nome, cognome oppure telefono.
 
-Utilizzare come base di partenza la classe Rubrica che si trova nel package rubrica.
 Si assuma che la rubrica possa contenere al più 10 voci.
