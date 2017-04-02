@@ -4,7 +4,7 @@ import Rubrica
 
 def main ( ) :
     #definisco il nome della mia nuova rubrica
-    r_nome = "rubrica mia"
+    r_nome = "rubrica nostra"
 
     # instanzio la rubrica
     r = Rubrica.Rubrica()

@@ -14,7 +14,7 @@ class Rubrica( object ) :
 
     """ imposta il nome della rubrica """
     def rubrica( self, nome ):
-        #TODO : scrivere una funzione che imposti il nome
+        self.nome_rubrica= nome
         pass
 
     """ inserisce una nuova voce nella rubrica """
@@ -29,8 +29,7 @@ class Rubrica( object ) :
 
     """ ritorna il nome della rubrica """
     def nome( self ):
-        #TODO : scriver una funzione che ritorna il nome della rubrica
-        return ""
+        return self.nome_rubrica
 
     """  Restituisce la voce i-esima inserita nella rubrica """
     def voce ( self, i ) :
