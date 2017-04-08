@@ -2,9 +2,9 @@
 
 class Voce ( object ) :
     def __init__( self ) :
-        nome = ""
-        cognome = ""
-        telefono = ""
+        self.nome = ""
+        self.cognome = ""
+        self.telefono = ""
 
 class Rubrica( object ) :
     def __init__ ( self ) :
