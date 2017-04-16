@@ -12,5 +12,5 @@ def main ( ) :
     #todo : scrivere qui il programma
     return
 
-if __name__ == "ese05" :
+if __name__ == "__main__" :
     main()

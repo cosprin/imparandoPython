@@ -10,7 +10,8 @@
 
 def main ( ) :
     #todo : scrivere qui il programma
+    print "test"
     return
 
-if __name__ == "ese02" :
+if __name__ == "__main__" :
     main()
