@@ -7,8 +7,13 @@
 # valore negativo e, in questo caso, trasformarlo nel corrispondente valore positivo
 # c) Stampare a video il valore finale, ovvero il modulo del valore acquisito
 
+
 def main ( ) :
-    #todo : scrivere qui il programma
+    x = input ( "Valore : ")
+    if int(x) < 0 :
+        x = int(x) * -1
+    print (x)
+
     return
 
 if __name__ == "__main__" :
