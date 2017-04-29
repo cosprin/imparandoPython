@@ -1,6 +1,6 @@
 #!/bin/env python
 #
-# Scrivere un programma per il calcolo del modulo di un numero; in particolare il programma dovrà:
+# Scrivere un programma per il calcolo del modulo di un numero; in particolare il programma dovra':
 # a) Acquisire da tastiera un valore intero, positivo o negativo, e memorizzarlo in una
 # variabile opportunamente definita
 # b) Stabilire utilizzando il costrutto condizionale if se tale variabile contiene un

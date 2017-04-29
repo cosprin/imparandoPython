@@ -9,9 +9,11 @@
 #
 
 def main ( ) :
-    #todo : scrivere qui il programma
-    print "test"
+    operand1 = input ("Valore : ")
+    operand2 = input ("Valore : ")
+    result = operand1+operand2
+    print ( "risultato : "+ str(result) )
     return
 
 if __name__ == "__main__" :
-    main()
+    main( )
